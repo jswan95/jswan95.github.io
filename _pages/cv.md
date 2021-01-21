@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, Inha University (Korea), 2018
-* M.S. in Jekyll, Korea Advanced Institute of Science and Technology, 2020
-* Ph.D in Version Control Theory, Korea Advanced Institute of Science and Technology, 2018 (expected)
+* B.S. in Logistics Management (minor in C.S.), Inha University (South Korea), 2014-2018
+* M.S. in Industrial & Systems Engineering, Korea Advanced Institute of Science and Technology, 2018-2020
+* Ph.D in Industrial & Systems Engineering, Korea Advanced Institute of Science and Technology, 2020-Present
 
 Work experience
 ======
