@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiansong Wan (万建松)"
+  name             : "Jiansong Wan"
   avatar           : "wan.jpg"
-  bio              : "Ph.D. Candidate"
+  bio              : "Ph.D. Candidate \\ Department of Industrail & Systems Engineering \\Korea Advanced Institute of Science and Technology, "
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
