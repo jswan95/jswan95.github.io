@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "For try"
 excerpt: "Jiansong Wan (万建松)"
 author_profile: true
 redirect_from: 
