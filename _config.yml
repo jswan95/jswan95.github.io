@@ -83,11 +83,11 @@ author:
   name             : "Jiansong Wan"
   avatar           : "wan.jpg"
   bio              : "Ph.D. candidate @ KAIST "
-  location         : "Location"
+  location         : "Daejeon, South Korea"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : jswan@kaist.ac.kr
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
